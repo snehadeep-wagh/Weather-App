@@ -1,0 +1,13 @@
+.bg-dark {
+    opacity: 1;
+    background-color: rgb(33, 37, 41);
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+#top {
+    color: white;
+}
